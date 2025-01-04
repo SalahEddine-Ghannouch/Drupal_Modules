@@ -1,1 +1,2 @@
 # Drupal_Modules
+This repository contains custom Drupal modules tailored for specific project requirements. It includes a custom-built module developed to extend Drupal functionality with unique features, optimized workflows, and integrations. Designed with scalability and reusability in mind, the code follows best practices for Drupal module development. Comprehensive documentation and configuration details are included to ensure ease of installation and use.
